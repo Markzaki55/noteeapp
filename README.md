@@ -1,7 +1,7 @@
 # noteeapp
 🌟 Key Features:
 
-🔹 Flutter & Bloc for State Management: the app harnesses the power of Flutter and Bloc for state-of-the-art state management.
+🔹 Flutter & Bloc for State Management: the app harnesses the power of Flutter and Bloc for state-of-the-art state management and hydrated_bloc to save the Mode State.
 
 🔐 Firebase Authentication: I integrated Firebase authentication to ensure your data is safe and accessible only to you. Say goodbye to worries about unauthorized access to Your Notes.
 📂 Effortless Note Saving: Store your thoughts, ideas, and reminders effortlessly in our app. With Firebase as the backbone, your notes are securely saved in the cloud, ready to access from anywhere, anytime.
