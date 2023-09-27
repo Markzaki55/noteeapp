@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "988414560609",
+    "project_id": "noteeapp-61932",
+    "storage_bucket": "noteeapp-61932.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988414560609:android:2bf426fdbb1de036085d20",
+        "android_client_info": {
+          "package_name": "com.example.noteeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988414560609-1fd56qpk00rdeqcj50l661lsk071dq83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0rh_E7OGF523iT6KLMnkUQoQ9F9UPtCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988414560609-1fd56qpk00rdeqcj50l661lsk071dq83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
